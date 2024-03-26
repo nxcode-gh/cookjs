@@ -1,0 +1,22 @@
+{
+    
+    "compilerOptions": {
+      "outDir": "./dist/lib",
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "module": "ESNext",
+      "target": "es6",
+      "jsx": "react",
+      "allowJs": true,
+      "declaration": true,
+      "declarationMap": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "strictPropertyInitialization": true,
+      "strictNullChecks": true,
+      "experimentalDecorators": true,
+      "useDefineForClassFields": false
+      },
+      "exclude": ["node_modules"]
+
+}
